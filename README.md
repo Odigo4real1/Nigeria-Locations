@@ -9,12 +9,12 @@ HOW TO ENTER DATA
 
        {
 
-name: 'Abia', value: 'abia', 
+name: 'Lagos', value: 'lagos', 
 
 lgas: [
-                {name: "Aba", value: 'aba'},
+                {name: "Alimosho", value: 'Alimosho'},
                 
-                {name: "Oru", value: 'oru'}
+                {name: "Ojo", value: 'ojo'}
                 
              ]
 }
@@ -26,15 +26,15 @@ COMMUNITY DATA
           
                  states : [
                  
-              { name: 'Abia', value: 'abia', 
+              { name: 'Lagos', value: 'lagos', 
               
-              LGA: [{name: 'Aba', value: 'aba', 
+              LGA: [{name: 'Alimosho', value: 'alimosho', 
                 
                       communities: [
                       
-                        {name: "Orumba", value: 'orumba'},
+                        {name: "Igando", value: 'igando'},
                         
-                        {name: "Onitsha", value: 'onitsha'},
+                        {name: "Obadore", value: 'obadore'},
                         
                         ]} 
                         
